@@ -1,0 +1,16 @@
+C:\Users\roman\source\repos\SudokuTest\bin\Debug\net5.0\SudokuTest.exe
+C:\Users\roman\source\repos\SudokuTest\bin\Debug\net5.0\SudokuTest.deps.json
+C:\Users\roman\source\repos\SudokuTest\bin\Debug\net5.0\SudokuTest.runtimeconfig.json
+C:\Users\roman\source\repos\SudokuTest\bin\Debug\net5.0\SudokuTest.runtimeconfig.dev.json
+C:\Users\roman\source\repos\SudokuTest\bin\Debug\net5.0\SudokuTest.dll
+C:\Users\roman\source\repos\SudokuTest\bin\Debug\net5.0\ref\SudokuTest.dll
+C:\Users\roman\source\repos\SudokuTest\bin\Debug\net5.0\SudokuTest.pdb
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.AssemblyInfo.cs
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.dll
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\ref\SudokuTest.dll
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.pdb
+C:\Users\roman\source\repos\SudokuTest\obj\Debug\net5.0\SudokuTest.genruntimeconfig.cache
