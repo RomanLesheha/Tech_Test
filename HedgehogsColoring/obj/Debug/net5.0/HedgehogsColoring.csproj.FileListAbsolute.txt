@@ -1,0 +1,16 @@
+C:\Users\roman\source\repos\HedgehogsColoring\bin\Debug\net5.0\HedgehogsColoring.exe
+C:\Users\roman\source\repos\HedgehogsColoring\bin\Debug\net5.0\HedgehogsColoring.deps.json
+C:\Users\roman\source\repos\HedgehogsColoring\bin\Debug\net5.0\HedgehogsColoring.runtimeconfig.json
+C:\Users\roman\source\repos\HedgehogsColoring\bin\Debug\net5.0\HedgehogsColoring.runtimeconfig.dev.json
+C:\Users\roman\source\repos\HedgehogsColoring\bin\Debug\net5.0\HedgehogsColoring.dll
+C:\Users\roman\source\repos\HedgehogsColoring\bin\Debug\net5.0\ref\HedgehogsColoring.dll
+C:\Users\roman\source\repos\HedgehogsColoring\bin\Debug\net5.0\HedgehogsColoring.pdb
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.AssemblyInfo.cs
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.dll
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\ref\HedgehogsColoring.dll
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.pdb
+C:\Users\roman\source\repos\HedgehogsColoring\obj\Debug\net5.0\HedgehogsColoring.genruntimeconfig.cache
